@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "706306416374",
+    "project_id": "open-vpn-57d2a",
+    "storage_bucket": "open-vpn-57d2a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:706306416374:android:5009f019eee98fbd9a96d7",
+        "android_client_info": {
+          "package_name": "com.soumyajitmukherjee.svpn"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgltO1dVLYq_1U3CxzZ_aJnW8iQEBlPko"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
